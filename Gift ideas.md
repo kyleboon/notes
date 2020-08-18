@@ -1,7 +1,6 @@
 ---
 created: 2020-08-11T14:17:53-05:00
-modified: 2020-08-17T22:40:47-05:00
-type: Checklist
+modified: 2020-08-17T22:41:53-05:00
 ---
 
 # Gift ideas
@@ -10,4 +9,4 @@ type: Checklist
 - [ ] Water Food Bath
 - [ ] Nintendo Switch
 - [ ] Car garbage can
-- [ ] [
+- [ ] [https://fiestafactorydirect.com/products/bistro-bowl-large-1459](Fiestaware Large Bistro Bowl)
