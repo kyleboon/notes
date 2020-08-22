@@ -1,6 +1,6 @@
 ---
 created: 2020-08-11T14:17:53-05:00
-modified: 2020-08-17T22:41:53-05:00
+modified: 2020-08-22T10:14:57-05:00
 ---
 
 # Gift ideas
@@ -10,3 +10,4 @@ modified: 2020-08-17T22:41:53-05:00
 - [ ] Nintendo Switch
 - [ ] Car garbage can
 - [ ] [https://fiestafactorydirect.com/products/bistro-bowl-large-1459](Fiestaware Large Bistro Bowl)
+- [ ] new Bluetooth speaker
