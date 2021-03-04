@@ -1,6 +1,6 @@
 ---
 created: 2020-08-11T14:17:53-05:00
-modified: 2021-02-26T13:00:34-06:00
+modified: 2021-03-03T19:51:08-06:00
 ---
 
 # Gift ideas
@@ -14,3 +14,4 @@ modified: 2021-02-26T13:00:34-06:00
 - Slippers
 - rock box 
 - stitch fix
+- custom Yahtzee score cards
