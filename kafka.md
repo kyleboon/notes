@@ -220,3 +220,34 @@ function compaction_report() {
   '
 }
 
+see where the offsets for <group> is currently at (it doesn't exist, so they all say `-1`):  
+
+kt group -brokers <broker> -topic <topic> -group <group> 2>/dev/null | 
+  jq -rc '.offsets[] | [.partition, .offset] | @tsv' | head -5
+
+0	-1
+1	-1
+2	-1
+3	-1
+4	-1
+
+Reset all of them by feeding in a heredoc of desired partition/offset pairs:  
+
+cat <<EOF | xargs -n 2 bash -c 'kt group -brokers <broer> -topic <topic> -group <group> -partitions $0 -reset $1'
+0 3137740
+1 3195600
+2 3152151
+3 3109114
+4 3147406
+EOF
+
+rerun the original command to see where the `teds-fancy-group-1` is now pointing:
+
+kt group -brokers <broker> -topic <topic> -group <group> 2>/dev/null | 
+  jq -rc '.offsets[] | [.partition, .offset] | @tsv' | head -5
+
+0	3137740
+1	3195600
+2	3152151
+3	3109114
+4	3147406
