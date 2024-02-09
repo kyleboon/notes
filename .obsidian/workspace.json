@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "3402486352a3b3aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "59518b7a229ca7ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12a551b644d0e1bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "267dca41f25a31cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e26c57f211e6d31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5049c088ad88370",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e37f22bb055b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd064f4969cf6b91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41aab06fb6eec8ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4a38fd5c6b392fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d603f230019a597",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3eb3ce1818f7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9facf9bd395791c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "2e26c57f211e6d31",
+  "lastOpenFiles": [
+    "Furniture/2020 Build Goals.md",
+    "Furniture/Things to build.md",
+    "homeimprovement.md",
+    "Gift ideas.md",
+    "Random.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2023 Wayfair Accomplishments.md",
+    "Tech Notes.md",
+    "Staff+ Stuff.md"
+  ]
+}
